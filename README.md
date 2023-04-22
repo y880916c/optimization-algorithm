@@ -1,2 +1,2 @@
 # optimization-algorithm
-create a algorithm because of a soft algorithm course
+create an optimization algorithm because of the soft algorithm course
